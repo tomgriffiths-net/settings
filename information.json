@@ -1,0 +1,8 @@
+{
+    "id_name": "settings",
+    "version": 2,
+    "author": "tom",
+    "name": "Global Settings Manager",
+    "description": "",
+    "dependencies": []
+}
